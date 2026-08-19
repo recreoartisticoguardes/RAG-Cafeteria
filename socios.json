@@ -1,6 +1,6 @@
 {
-  "fecha_generacion": "2026-08-18T10:52:35Z",
-  "socios": [
+  "fecha_generacion": "2026-08-19T18:09:51Z",
+  "codigos": [
     "{2F4CF49C-BA01-45FB-B5E5-4FFBC1A82999}",
     "{C0D1469F-25C9-4BA3-8F0F-B8E1A677DFA7}",
     "{1AD98D8A-BE76-463F-8BBA-D2CFB1CB3483}",
@@ -317,5 +317,5 @@
     "{95532489-F22B-430C-9320-2D6373AF8F4C}",
     "{D96E42DA-70A9-4E56-B325-7A1497829EAB}"
   ],
-  "total_socios": 315
+  "total_elementos": 315
 }
