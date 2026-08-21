@@ -1,0 +1,19 @@
+{
+  "appId": "es.rag.cafeteria.tarifas",
+  "versions": [
+    {
+      "versionCode": 3,
+      "versionName": "1.0.1-BrightStart",
+      "releaseDate": "2026-08-20",
+      "apkUrl": "https://recreoartisticoguardes.github.io/RAG-Cafeteria/app/RAG_Cafeteria_v1.0.1.apk",
+      "mandatory": false,
+      "changelog": {
+        "es": "Versión inicial funcional.",
+        "gl": "Versión inicial funcional.",
+        "en": "Initial functional release.",
+        "fr": "Version initiale fonctionnelle.",
+        "pt": "Versão inicial funcional."
+      }
+    }
+  ]
+}
