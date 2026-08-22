@@ -4,15 +4,29 @@
     {
       "versionCode": 3,
       "versionName": "1.0.1-BrightStart",
-      "releaseDate": "2026-08-20",
+      "releaseDate": "2026-08-19",
       "apkUrl": "https://recreoartisticoguardes.github.io/RAG-Cafeteria/app/RAG_Cafeteria_v1.0.1.apk",
       "mandatory": false,
       "changelog": {
-        "es": "Versión inicial funcional.",
-        "gl": "Versión inicial funcional.",
-        "en": "Initial functional release.",
-        "fr": "Version initiale fonctionnelle.",
-        "pt": "Versão inicial funcional."
+        "es": "Versión inicial con control de tarifas, linterna y modo bajo consumo.",
+        "gl": "Versión inicial con control de tarifas, lanterna e modo baixo consumo.",
+        "en": "Initial release with tariff control, torch, and low power mode.",
+        "fr": "Version initiale avec contrôle des tarifs, lampe torche et mode économie d'énergie.",
+        "pt": "Versão inicial com controlo de tarifas, lanterna e modo de poupança de energia."
+      }
+    },
+    {
+      "versionCode": 4,
+      "versionName": "1.0.2-BrightStart",
+      "releaseDate": "2026-08-22",
+      "apkUrl": "https://recreoartisticoguardes.github.io/RAG-Cafeteria/app/RAG_Cafeteria_v1.0.2.apk",
+      "mandatory": false,
+      "changelog": {
+        "es": "Añadido cooldown de 1s en lector QR y sistema de actualización automática y manual. Mejoras de accesibilidad e internacionalización completa. Validación de URLs y avisos en las secciones de configuración.",
+        "gl": "Engadido cooldown de 1s no lector QR e sistema de actualización automática e manual. Melloras de accesibilidade e internacionalización completa. Validación de URLs e avisos nas seccións de configuración.",
+        "en": "Added 1s cooldown in QR scanner and automatic/manual update checking system. Accessibility and full internationalization improvements. URL validation and notifications in the settings sections.",
+        "fr": "Ajout d'un délai d'attente de 1s sur le lecteur QR et système de mise à jour automatique/manuelle. Améliorations d'accessibilité et internationalisation complète. Validation des URLs et notifications dans les paramètres.",
+        "pt": "Adicionado cooldown de 1s no leitor QR e sistema de verificação de atualizações automática e manual. Melhorias de acessibilidade e internacionalização completa. Validação de URLs e avisos nas secções de configuração."
       }
     }
   ]
